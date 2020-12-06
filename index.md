@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/stemcoding2/teacherpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <title>Benjamin Hornbeck’s App Installer</title>
+<style>
+body {
+  background-color: #000000;
+}
+div.logo {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+}
+div.heading {
+  font-family: HelveticaNeue-Bold;
+  text-align: center;
+  color: white;
+}
+.button {
+  background-color: #ebebeb;
+  border: 8px solid;
+  font-family: HelveticaNeue-Bold;
+  border-color: #ff0000;
+  color: black;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  width: 250px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 0px 20px 0 rgba(0,0,0,0.19);
+  -webkit-appearance: automatic;
+}
+@media (prefers-color-scheme: automatic) {
+.button {
+background-color: #3D3D3D;
+color: #FFFFFF;
+box-shadow: 0 8px 16px 0 rgba(255,255,255,0.2), 0 0px 20px 0 rgba(255,255,255,0.19);
+}
+body {
+background-color: #ffffff;
+}
+div.heading {
+  font-family: HelveticaNeue-Bold;
+  text-align: center;
+  color: white;
+}
+a {
+filter: invert(100%);
+}
+</style>
+</head>
+<body>
+<div class="heading">
+<h1>Benjamin Hornbecks App Installer</h1>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  bottom: 0;
+  width: 100%;
+  height: 5rem;
+  text-align: center;
 
-### Markdown
+            
+        <center>
+        <p class="text-p">TutuBox</p>
+        <a href="itms-services://?action=download-manifest&amp;url=https://TutuBox.io/plists/TutuBox/TutuBoxLodging.plist"id="o"<center><button class="btn"><i class="fa fa-download"></i>TutuBox Norfolk Southern Corporation (SIGNED)</button></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table border="0" cellpadding="5" cellspacing="0" width="100%">
+                                <tbody>
+                                  <tr>
+                                    <td colspan="2" valign="middle" style="border:0;color:#9E9E9E;font-family: Verdana;font-size:12px;line-height:125%;text-align:center">
+                                      <p style="margin-top: 50px;">&copy; 2020 <span class="il">Benjamin Hornbeck</span></p>
+<center>
+<p class="text-white">YouTube: <a href="https://m.youtube.com/channel/UCYF_-HppTzr6srElHbsmZqg" class="text-white" target="_blank" id="e">Benjamin Hornbeck</a></p>
 
-```markdown
-Syntax highlighted code block
+<center>
+<p class="text-white">Install Any iPA With AppCake: <a href="itms-services://?action=download-manifest&url=https://www.iphonecake.com/app/appcake.plist" class="text-white" target="_blank" id="e">Tap Here To Install</a></p>
 
-# Header 1
-## Header 2
-### Header 3
+<center>
+<p class="text-white">unc0ver: <a href="itms-services://?action=download-manifest&amp;url=https://app.app-valley.vip/plists/1574/install.plist" class="text-white" target="_blank" id="e">Tap Here To Install</a></p>
 
-- Bulleted
-- List
+<center>
+<p class="text-white">Chimera: <a href="itms-services://?action=download-manifest&amp;url=https://app.app-valley.vip/plists/1589/install.plist" class="text-white" target="_blank" id="e">Tap Here To Install</a></p>
 
-1. Numbered
-2. List
+<center>
+<p class="text-white">If Your Are On iOS 13.4 And Under Watch This Video If An App Is Revoked: </a></p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<iframe width="800" height="600" src="https://www.youtube.com/embed/SCJy0q9iqyk">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stemcoding2/teacherpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</script>
+</html>
